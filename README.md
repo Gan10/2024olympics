@@ -18,7 +18,8 @@ This interactive Power BI dashboard provides a comprehensive overview of the **P
 
 ### 🖼️ Dashboard Preview
 
-![Dashboard Screenshot](https://github.com/user-attachments/assets/9c17dd4a-6cdd-4c94-8289-77b88f5af101)
+![Dashboard Screenshot](![image](https://github.com/user-attachments/assets/9cf4fc43-39e7-47fa-999a-a7f2fab56d6c)
+)
 
 ---
 
