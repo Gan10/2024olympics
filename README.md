@@ -11,7 +11,6 @@ This interactive Power BI dashboard provides a comprehensive overview of the Par
 - Top medalists highlighted by medal type.
 - Drill-down capabilities by medal date and discipline.
 - Interactive world map visualizing medal-winning countries.
-- Sankey diagram** linking medal types to countries and disciplines.
 - Sport-specific navigation with easily identifiable icons.
 
 ---
